@@ -1,8 +1,10 @@
+import LayoutDashboard from "./Layouts/Dashboard"
+
 function App() {
     return (
-        <>
-            <div>Hello World</div>
-        </>
+        <LayoutDashboard>
+            
+        </LayoutDashboard>
     )
 }
 
